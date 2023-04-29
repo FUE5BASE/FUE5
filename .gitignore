@@ -4,8 +4,6 @@ Intermediate/ReimportCache/**
 DerivedDataCache/**
 Content/MyStuff/TRAILER1/**
 Intermediate/CachedAssetRegistry.bin
-Saved/**
-Saved/Config/CrashReportClient/**
 
 **/*.c4d
 **/*.c4d@*
@@ -22,4 +20,6 @@ Content/**/*.txt
 CachedAssetRegistry.bin
 
 !Content/MyStuff/ENTITIES/STRUCTURES/accumulator/media/lightning1/lightning1/*.jpg
+Saved/**
 !Saved/Config/**
+Saved/Config/CrashReportClient/**
