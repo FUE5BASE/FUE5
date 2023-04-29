@@ -21,5 +21,6 @@ CachedAssetRegistry.bin
 
 !Content/MyStuff/ENTITIES/STRUCTURES/accumulator/media/lightning1/lightning1/*.jpg
 Saved/**
-!Saved/Config/**
+!Saved/Config/WindowsEditor/*.ini
+!Saved/Config/WorldState/*.json
 Saved/Config/CrashReportClient/**
