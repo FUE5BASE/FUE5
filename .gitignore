@@ -1,7 +1,13 @@
-# Ignore all files by default, but scan all directories.
-DerivedDataCache/*
-Saved/*
 Content/Megascans/*
+Content/StarterContent/**
+Intermediate/ReimportCache/**
+DerivedDataCache/**
+Content/MyStuff/TRAILER1/**
+Intermediate/CachedAssetRegistry.bin
+Saved/**
+!Saved/Config/**
+Saved/Config/CrashReportClient/**
+
 
 **/*.c4d
 **/*.c4d@*
@@ -13,7 +19,6 @@ Content/Megascans/*
 **/*.jpeg
 **/*.aep
 **/*.blend
-**/*.swatch
 Content/**/*.txt
 **/trash/**
 CachedAssetRegistry.bin
