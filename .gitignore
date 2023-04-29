@@ -1,0 +1,19 @@
+# Ignore all files by default, but scan all directories.
+DerivedDataCache/*
+Saved/*
+Content/Megascans/*
+
+**/*.c4d
+**/*.c4d@*
+**/*.psd
+**/*.tga
+**/*.abc
+**/*.jpg
+**/*.png
+**/*.jpeg
+**/*.aep
+**/*.blend
+**/*.swatch
+Content/**/*.txt
+**/trash/**
+CachedAssetRegistry.bin
