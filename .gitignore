@@ -5,7 +5,6 @@ DerivedDataCache/**
 Content/MyStuff/TRAILER1/**
 Intermediate/CachedAssetRegistry.bin
 Saved/**
-!Saved/Config/**
 Saved/Config/CrashReportClient/**
 
 **/*.c4d
