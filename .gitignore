@@ -20,14 +20,7 @@ Content/**/*.txt
 CachedAssetRegistry.bin
 
 !Content/MyStuff/ENTITIES/STRUCTURES/accumulator/media/lightning1/lightning1/*.jpg
-Saved/Autosaves/**
-Saved/Collections/**
-Saved/Crashes/**
-Saved/Logs/**
-Saved/Screenshots/**
-Saved/SourceControl/**
-Saved/webcache_4430/**
-Saved/Config/CrashReportClient/**
+Saved/**
 !Saved/Config/WindowsEditor/**
 !Saved/Config/WorldState/**
 Intermediate/ShaderAutogen/**
