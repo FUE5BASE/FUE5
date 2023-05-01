@@ -5,18 +5,18 @@ DerivedDataCache/**
 Content/MyStuff/TRAILER1/**
 Intermediate/CachedAssetRegistry.bin
 
-**/*.c4d
+**/*- Copy*.c4d
 **/*.c4d@*
 **/*.psd
 **/*.tga
 **/*.abc
-**/*.jpg
 **/*.png
 **/*.jpeg
 **/*.aep
 **/*.blend
 Content/**/*.txt
 **/trash/**
+**/backup/**
 CachedAssetRegistry.bin
 
 !Content/MyStuff/ENTITIES/STRUCTURES/accumulator/media/lightning1/lightning1/*.jpg
