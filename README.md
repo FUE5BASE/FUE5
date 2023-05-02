@@ -2,6 +2,14 @@
 # FUE5
 Factorio in Unreal Engine 5 (FUE5) is a fan-made project with the goal to see what would Factorio look like and behave in 3D.
 
+WHAT YOU NEED TO KNOW TO RUN THIS PROJECT:
+
+1. Download and install Unreal Engine 5.1 https://www.unrealengine.com/en-US/download
+2. Download this project. Either via GitHub Desktop app or just by getting the .zip file.
+3. Run the project by opening FUE5.uproject
+4. The project is set to load simple "Welcome" scene containing several buildings. 
+
+#FAQ
 **How does it work?**
 
 Nuke wrote a Factorio mod which exports the ingame base as a .json text file. This text file is then automatically imported to the UE5 project and creates the exact 3D replica of your ingame base in UE5 with a click of a button.
