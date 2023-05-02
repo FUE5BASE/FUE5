@@ -13,9 +13,6 @@ Factorio in Unreal Engine 5 (FUE5) is a fan-made project with the goal to see wh
 I do not own the IP of the Factorio game, it's assets or any of the related designs. All credit goes to the Factorio owner and developer Wube Software. Massive respect for the insane feat of engineering and optimization the actual Factorio game is!
 
 ## FAQ
-**Why do this?**<br>
-The factory must grow.
-
 **How does it work?**<br>
 Nuke wrote a Factorio mod called [FUE5-Exporter](https://github.com/FUE5BASE/FUE5-Exporter), which exports the ingame base as a .json text file. This text file is then parsed by our UE blueprints which create 3D replica of your ingame base in UE5. Most of the trailer shots have been built this way.
 
@@ -30,5 +27,8 @@ It looks awesome and it's blueprint system is perfect for replicating Factorio i
 
 **Can my PC run this project?**<br>
 I've specifically bought RTX4090 just to be able to work the scenes in the trailer at around 30-60 FPS. I always had the settings on maximum tho. We have poor LODs optimization and the amount of iterations our blueprint systems calculate each tick is through the roof so the performance could be improved ten fold with the proper approach.
+
+**Why do this?**<br>
+The factory must grow.
 
 Special thanks to [Phorge](https://www.artstation.com/phorge) who helped us with some core technical UE problems at the beginning of the project!
