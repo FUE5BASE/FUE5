@@ -17,7 +17,7 @@ I do not own the IP of the Factorio game, it's assets or any of the related desi
 The factory must grow.
 
 **How does it work?**<br>
-Nuke wrote a Factorio mod called [FUE5-Exporter](https://github.com/FUE5BASE/FUE5-Exporter), which exports the ingame base as a .json text file. This text file is then parsed by our UE blueprints which create 3D replica of your ingame base in UE5.
+Nuke wrote a Factorio mod called [FUE5-Exporter](https://github.com/FUE5BASE/FUE5-Exporter), which exports the ingame base as a .json text file. This text file is then parsed by our UE blueprints which create 3D replica of your ingame base in UE5. Most of the trailer shots have been built this way.
 
 **Is there any gameplay?**<br>
 No. All you can do is to fly around your base and toy around with existing assets and UE construction and event blueprints. For those with experience in UE there is a lot of fun stuff you can do with the blueprints we've designed for the belt, rail and logistic systems.
@@ -30,6 +30,5 @@ It looks awesome and it's blueprint system is perfect for replicating Factorio i
 
 **Can my PC run this project?**<br>
 I've specifically bought RTX4090 just to be able to work the scenes in the trailer at around 30-60 FPS. I always had the settings on maximum tho. We have poor LODs optimization and the amount of iterations our blueprint systems calculate each tick is through the roof so the performance could be improved ten fold with the proper approach.
-
 
 Special thanks to [Phorge](https://www.artstation.com/phorge) who helped us with some core technical UE problems at the beginning of the project!
