@@ -30,5 +30,3 @@ I've specifically bought RTX4090 just to be able to work the scenes in the trail
 
 **Why do this?**<br>
 The factory must grow.
-
-Special thanks to [Phorge](https://www.artstation.com/phorge) who helped us with some core technical UE problems at the beginning of the project!
