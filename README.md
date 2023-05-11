@@ -8,6 +8,7 @@ FUE5 is a fan-made project with the goal to see what would Factorio look like an
 2. Download this project. Either via [GitHub Desktop app](https://desktop.github.com/) or just by getting the packaged [.zip file](https://github.com/FUE5BASE/FUE5/archive/refs/heads/main.zip).
 3. Unpack the project and run it by opening FUE5.uproject
 4. The project is set to load simple "Welcome" scene containing several buildings. Little heads-up - it'll probably do something called "Compiling Shaders" on first startup and since there are thousand of shaders involved it might take around 10 minutes.
+5. Now you can use the [FUE5-Exporter](https://github.com/FUE5BASE/FUE5-Exporter) to export your Factorio base and let the FUE5 project reconstruct a 3D version for you.
 
 ## Disclaimer:
 I do not own the IP of the Factorio game, it's assets or any of the related designs. All credit goes to the Factorio owner and developer Wube Software. Massive respect for the insane feat of engineering and optimization the actual Factorio game is!
