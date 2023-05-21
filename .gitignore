@@ -4,6 +4,7 @@ Intermediate/ReimportCache/**
 DerivedDataCache/**
 Content/MyStuff/TRAILER1/**
 Content/MyStuff/TESTING/**
+Content/MyStuff/_DEV/**
 Intermediate/CachedAssetRegistry.bin
 
 **/*- Copy*.c4d
