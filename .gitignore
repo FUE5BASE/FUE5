@@ -3,6 +3,7 @@ Content/StarterContent/**
 Intermediate/ReimportCache/**
 DerivedDataCache/**
 Content/MyStuff/_TRAILER1/**
+Content/MyStuff/_TRAILER2/**
 Content/MyStuff/TESTING/**
 Content/MyStuff/_DEV/**
 Intermediate/CachedAssetRegistry.bin
