@@ -2,7 +2,7 @@ Content/Megascans/*
 Content/StarterContent/**
 Intermediate/ReimportCache/**
 DerivedDataCache/**
-Content/MyStuff/TRAILER1/**
+Content/MyStuff/_TRAILER1/**
 Content/MyStuff/TESTING/**
 Content/MyStuff/_DEV/**
 Intermediate/CachedAssetRegistry.bin
