@@ -30,4 +30,9 @@ It looks awesome and it's blueprint system is perfect for replicating Factorio i
 I've specifically bought RTX4090 just to be able to work the scenes in the trailer at around 30-60 FPS. I always had the settings on maximum tho. **We're currently optimizing each building and each UE blueprint to deliver good performance with larger bases.**
 
 **Why do this?**<br>
-The factory must grow.
+The factory must grow.<br>
+
+
+## Special Credits
+Phorge<br>
+swistak84
