@@ -10,6 +10,9 @@ FUE5 is a fan-made project with the goal to see what would Factorio look like an
 4. The project is set to load simple "Welcome" scene containing several buildings. Little heads-up - it'll probably do something called "Compiling Shaders" on first startup and since there are thousand of shaders involved it might take around 10 minutes.
 5. Now you can use the [FUE5-Exporter](https://github.com/FUE5BASE/FUE5-Exporter) to export your Factorio base and transfer it to FUE5.
 
+## How do I import my Factorio base to FUE5?
+If you need to know how to transfer your Factorio base to FUE5 follow [this](https://github.com/FUE5BASE/FUE5/blob/main/BaseImportGuide.md) simple guide. We also encourage anyone having troubles making things work to visit our [FUE5 Discord](https://discord.gg/5dWyyH5wcU) for advice!
+
 ## Disclaimer:
 I do not own the IP of the Factorio game, it's assets or any of the related designs. All credit goes to the Factorio owner and developer Wube Software. Massive respect for the insane feat of engineering and optimization the actual Factorio game is!
 
@@ -38,4 +41,5 @@ Yes! You can go read this [Guide](https://github.com/FUE5BASE/blob/main/BaseImpo
 
 ## Special Credits
 Phorge<br>
+Inrixia<br>
 swistak84
