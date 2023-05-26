@@ -11,7 +11,7 @@ FUE5 is a fan-made project with the goal to see what would Factorio look like an
 5. Now you can use the [FUE5-Exporter](https://github.com/FUE5BASE/FUE5-Exporter) to export your Factorio base and transfer it to FUE5.
 
 ## How do I import my Factorio base to FUE5?
-If you need to know how to transfer your Factorio base to FUE5 follow [this](https://github.com/FUE5BASE/FUE5/blob/main/BaseImportGuide.md) simple guide. We also encourage anyone having troubles making things work to visit our [FUE5 Discord](https://discord.gg/5dWyyH5wcU) for advice!
+If you want to know how to transfer your Factorio base to FUE5 follow [this](https://github.com/FUE5BASE/FUE5/blob/main/BaseImportGuide.md) simple guide. We also encourage anyone having trouble making things work to visit our [FUE5 Discord](https://discord.gg/5dWyyH5wcU) for advice!
 
 ## Disclaimer:
 I do not own the IP of the Factorio game, it's assets or any of the related designs. All credit goes to the Factorio owner and developer Wube Software. Massive respect for the insane feat of engineering and optimization the actual Factorio game is!
@@ -30,7 +30,7 @@ We created them from scratch in Cinema4D based on the pictures from the game. Th
 It looks awesome and it's blueprint system is perfect for replicating Factorio ingame systems if you don't know how to code. It also beats the standard 3D editors like Cinema4D or Blender in this particular application where you need to get realtime results.
 
 **Can my PC run this project?**<br>
-I've specifically bought RTX4090 just to be able to work the scenes in the trailer at around 30-60 FPS. I always had the settings on maximum tho. **We're currently optimizing each building and each UE blueprint to deliver good performance with larger bases.**
+I've specifically bought RTX4090 just to be able to work the scenes in the trailer at around 30-60 FPS. I always had the settings on maximum tho. **We're currently optimizing each building and each UE blueprint to deliver better performance.**
 
 **Why do this?**<br>
 The factory must grow.<br>
