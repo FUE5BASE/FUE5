@@ -35,10 +35,6 @@ I've specifically bought RTX4090 just to be able to work the scenes in the trail
 **Why do this?**<br>
 The factory must grow.<br>
 
-**Is there a guide on how to use the exporter?**
-Yes! You can go read this [Guide](https://github.com/FUE5BASE/blob/main/BaseImportGuide.md) which has steps you can follow to export a section of your base and view it in FUE5.
-
-
 ## Special Credits
 Phorge<br>
 Inrixia<br>
