@@ -28,9 +28,9 @@ You can now copy the `exported-entities.json`.
 Paste `exported-entities.json` file from `%APPDATA%/Factorio/script-output` to `FUE5\Content\MyStuff\JSON` and overwrite the existing .json file.
 
 ### Step 4. Open FUE5 project
-Open the FUE5 project via the `FUE5.uproject` and your `exported-entities.json` will gets automatically loaded and your base will appear. If you wish to update the `exported-entities.json` file with a different exported base, then you're free to do so, just remember to tick the **Refresh checkbox** in the json-loader **Details panel** to properly load the new base.
+Open the FUE5 project via the `FUE5.uproject` and your `exported-entities.json` gets automatically loaded and your base will appear. If you wish to update the `exported-entities.json` file with a different exported base, then you're free to do so, just remember to tick the **Refresh Base checkbox** in the json-loader **Details panel** to properly load the new base. There is also an option for custom .json path which you can edit for alternative .json file path.
 
-![refresh](https://github.com/FUE5BASE/FUE5/assets/127543827/8e7123bc-360d-4260-9d37-f3315b7cccf0)
+![image](https://github.com/FUE5BASE/FUE5/assets/127543827/af1c43ca-24e9-454d-bd76-cc1bb7de4fe2)
 
 
 You may need to look around to find where the section is imported.
