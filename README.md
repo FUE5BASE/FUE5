@@ -1,4 +1,4 @@
-![github3](https://github.com/FUE5BASE/FUE5/assets/127543827/80f43047-ff05-4180-b7eb-7ff2ba4bd0d8)
+![github3](https://github.com/FUE5BASE/FUE5/assets/127543827/2ab014d1-b73c-4078-9492-71589da0fda3)
 
 
 # FUE5
